@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyName</string>
+    <string name="txtUserName">User Name</string>
+</resources>
